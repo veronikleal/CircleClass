@@ -1,4 +1,4 @@
-# CircleClass
+# Pi
 
 Determining π Experimentally:
 
